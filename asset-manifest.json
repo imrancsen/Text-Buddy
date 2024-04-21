@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Text-Buddy/static/css/main.4b314a20.css",
-    "main.js": "/Text-Buddy/static/js/main.5ac3294c.js",
-    "static/js/787.6d58da44.chunk.js": "/Text-Buddy/static/js/787.6d58da44.chunk.js",
+    "main.css": "/Text-Buddy/static/css/main.be3e0b00.css",
+    "main.js": "/Text-Buddy/static/js/main.4d07a98a.js",
+    "static/js/453.09b50f5d.chunk.js": "/Text-Buddy/static/js/453.09b50f5d.chunk.js",
     "index.html": "/Text-Buddy/index.html",
-    "main.4b314a20.css.map": "/Text-Buddy/static/css/main.4b314a20.css.map",
-    "main.5ac3294c.js.map": "/Text-Buddy/static/js/main.5ac3294c.js.map",
-    "787.6d58da44.chunk.js.map": "/Text-Buddy/static/js/787.6d58da44.chunk.js.map"
+    "main.be3e0b00.css.map": "/Text-Buddy/static/css/main.be3e0b00.css.map",
+    "main.4d07a98a.js.map": "/Text-Buddy/static/js/main.4d07a98a.js.map",
+    "453.09b50f5d.chunk.js.map": "/Text-Buddy/static/js/453.09b50f5d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b314a20.css",
-    "static/js/main.5ac3294c.js"
+    "static/css/main.be3e0b00.css",
+    "static/js/main.4d07a98a.js"
   ]
 }
